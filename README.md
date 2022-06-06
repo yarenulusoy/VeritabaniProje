@@ -40,24 +40,25 @@ Kisiler{KisiId:int, KisiAd:nvarchar(100), Telefon:char(11)} \
 Uyeler{KisiId:int, Tc(char(11), IlceId:int} \
 Personeller{KisiId:int,KullaniciAd:nvarchar(100), Sifre:nvarchar(100)} 
 
+
 <img
   src="/images/1.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;  width: 300px">
+  style="display: inline-block; margin: 0 auto;  width: 500px">
   
   
   <img
   src="/images/2.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;  width: 300px">
+  style="display: inline-block; margin: 0 auto;  width: 500px">
   
   
   <img
   src="/images/3.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;  width: 300px">
+  style="display: inline-block; margin: 0 auto;  width: 500px">
   
   
