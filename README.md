@@ -20,7 +20,7 @@ Bir ilçeye ait birden fazla kütüphane olabilir. \
 Bir ile ait birden çok ilçe olabilir. \
 Bir ilçenin bir ili vardır. \
 Bir ilçeye sahip birden çok üye olabilir. \
-Bir üye bir ilçeye sahip olabilir. \
+Bir üye bir ilçeye sahip olabilir. 
 
 İLİŞKİSEL ŞEMA
 
@@ -38,7 +38,7 @@ Ilceler{IlceId:int, IlceAd:nvarchar(100), IlId:int} \
 OduncIslem{IslemId:int, UyeId:int, KitapId:int, AlinanTarih:datetime } \
 Kisiler{KisiId:int, KisiAd:nvarchar(100), Telefon:char(11)} \
 Uyeler{KisiId:int, Tc(char(11), IlceId:int} \
-Personeller{KisiId:int,KullaniciAd:nvarchar(100), Sifre:nvarchar(100)} \
+Personeller{KisiId:int,KullaniciAd:nvarchar(100), Sifre:nvarchar(100)} 
 
 <img
   src="/images/1.png"
